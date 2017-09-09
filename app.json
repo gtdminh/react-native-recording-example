@@ -1,0 +1,8 @@
+{
+    "expo": {
+        "sdkVersion": "20.0.0",
+        "android": {
+            "permissions": ["RECORD_AUDIO"]
+        }
+    }
+}
